@@ -155,7 +155,35 @@
 // console.log(ages.some(ages=>ages>18));
 
 // 14-masala
-let arr=['middle'];
-arr.push('end');
-arr.unshift('start');
-console.log(arr);
+// let arr=['middle'];
+// arr.push('end');
+// arr.unshift('start');
+// console.log(arr);
+
+// 15-masala
+// let langs=['HTML','CSS','JavaScript'];
+// let langs_after=langs.indexOf("CSS");
+// console.log(langs_after);
+
+// 16-masala
+// let colors=['red','green','blue','yellow'];
+// let colors_after1=colors.reverse();
+// let colors_after2=colors_after1.unshift('yellow');
+// console.log(colors_after2);
+
+// 17-masala
+// let nums=[4,8,10,6,12];
+// let nums_after1=nums.reduce((total,num)=>total+num,0);
+// let nums_after2=nums_after1/5;
+// console.log(nums_after2);
+
+// 18-masala
+// ?
+
+// 19-masala
+// ?
+
+// 20-masala
+// let nums=[-3,4,-1,6,0];
+// let musbat=nums.filter(nums=>nums>0).map(nums=>nums*2).reduce((total,num)=>total+num,0);
+// console.log(musbat);
